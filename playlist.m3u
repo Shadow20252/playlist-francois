@@ -1,1 +1,274 @@
+#EXTM3U
 
+############################################################
+######################## 🌍 EURONEWS ########################
+############################################################
+
+#EXTINF:-1 tvg-name="Euronews FR" group-title="News",Euronews FR
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+
+#EXTINF:-1 tvg-name="Euronews EN" group-title="News",Euronews EN
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+
+#EXTINF:-1 tvg-name="Euronews International" group-title="News",Euronews International
+https://euronews-world-live.akamaized.net/hls/live/2099021/EuronewsWorld/index.m3u8
+
+
+############################################################
+######################## 🌍 i24NEWS #########################
+############################################################
+
+#EXTINF:-1 tvg-name="i24NEWS FR" group-title="News",i24NEWS Français
+https://bcovlive-a.akamaihd.net/38974f93b0b14f3d9f6bfae5b0f3f6b7/eu-west-1/6057959889001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="i24NEWS EN" group-title="News",i24NEWS English
+https://bcovlive-a.akamaihd.net/38974f93b0b14f3d9f6bfae5b0f3f6b7/eu-west-1/6057959889001/playlist.m3u8?lang=en
+
+#EXTINF:-1 tvg-name="i24NEWS AR" group-title="News",i24NEWS Arabic
+https://bcovlive-a.akamaihd.net/38974f93b0b14f3d9f6bfae5b0f3f6b7/eu-west-1/6057959889001/playlist.m3u8?lang=ar
+
+
+############################################################
+###################### 🌍 NEWS INTERNATIONALES ##############
+############################################################
+
+#EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Deutsch" group-title="News",DW Deutsch
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-name="France 24 FR" group-title="News",France 24 FR
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-name="France 24 EN" group-title="News",France 24 EN
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera EN" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+############################################################
+###################### 📺 TV QUÉBEC / CANADA ################
+############################################################
+
+#EXTINF:-1 tvg-name="ICI Télé" group-title="Québec",ICI Télé
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-name="Télé-Québec" group-title="Québec",Télé-Québec
+https://mnmedias.api.telequebec.tv/m3u8/telequebec.m3u8
+
+#EXTINF:-1 tvg-name="Noovo" group-title="Québec",Noovo
+https://bellmedia-lh.akamaihd.net/i/noovo_1@123456/master.m3u8
+
+#EXTINF:-1 tvg-name="LCN" group-title="Québec",LCN
+https://bellmedia-lh.akamaihd.net/i/lcn_1@123456/master.m3u8
+
+#EXTINF:-1 tvg-name="TVA" group-title="Québec",TVA
+https://bellmedia-lh.akamaihd.net/i/tva_1@123456/master.m3u8
+
+#EXTINF:-1 tvg-name="CPAC FR" group-title="Canada",CPAC Français
+https://cpacfr-lh.akamaihd.net/i/cpacfr_1@328646/master.m3u8
+
+#EXTINF:-1 tvg-name="CPAC EN" group-title="Canada",CPAC English
+https://cpacen-lh.akamaihd.net/i/cpac_1@328645/master.m3u8
+
+#EXTINF:-1 tvg-name="CBC News" group-title="Canada",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-name="Global News" group-title="Canada",Global News 24/7
+https://dai.google.com/linear/hls/pa/event/GlobalNews/master.m3u8
+
+
+############################################################
+###################### 🇫🇷 TV FRANCE ########################
+############################################################
+
+#EXTINF:-1 tvg-name="TV5 Monde Info" group-title="France",TV5 Monde Info
+https://live.tv5monde.com/tv5monde_info/index.m3u8
+
+#EXTINF:-1 tvg-name="BFM Business" group-title="France",BFM Business
+https://bfmbusiness.akamaized.net/hls/live/2037200/bfmbusiness/master.m3u8
+
+#EXTINF:-1 tvg-name="CNEWS" group-title="France",CNEWS
+https://live-cnews.akamaized.net/hls/live/2037997/CNEWS/master.m3u8
+
+
+############################################################
+###################### 📻 RADIOS QUÉBEC #####################
+############################################################
+
+#EXTINF:-1 tvg-name="ICI Première" group-title="Radios Québec",ICI Première
+https://rcavlive.akamaized.net/hls/live/704026/xcanprem/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio Canada International" group-title="Radios Québec",Radio Canada International
+https://rcavlive.akamaized.net/hls/live/704027/xcanrcint/master.m3u8
+
+#EXTINF:-1 tvg-name="CKRL 89.1" group-title="Radios Québec",CKRL 89.1
+https://stream02.ustream.ca/ckrl.mp3
+
+#EXTINF:-1 tvg-name="CHYZ 94.3" group-title="Radios Québec",CHYZ 94.3
+https://stream03.ustream.ca/chyz.mp3
+
+#EXTINF:-1 tvg-name="CKIA 88.3" group-title="Radios Québec",CKIA 88.3
+https://stream02.ustream.ca/ckia.mp3
+
+
+############################################################
+###################### 📻 RADIOS FRANCE #####################
+############################################################
+
+#EXTINF:-1 tvg-name="Europe 1" group-title="Radios France",Europe 1
+https://icecast.europe1.fr/europe1.mp3
+
+#EXTINF:-1 tvg-name="RTL France" group-title="Radios France",RTL France
+https://streaming.radio.rtl.fr/rtl-1-44-128
+
+
+############################################################
+######################## 🌿 PACK NATURE #####################
+############################################################
+
+#EXTINF:-1 tvg-name="Times Square Live" group-title="Nature",Times Square Live
+https://videos3.earthcam.com/fecnetwork/tsq1.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Niagara Falls Live" group-title="Nature",Niagara Falls Live
+https://videos3.earthcam.com/fecnetwork/niagarafalls.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Miami Beach Live" group-title="Nature",Miami Beach Live
+https://videos3.earthcam.com/fecnetwork/miamibeach.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="San Diego Harbor" group-title="Nature",San Diego Harbor
+https://videos3.earthcam.com/fecnetwork/sandiego.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Statue of Liberty Live" group-title="Nature",Statue of Liberty Live
+https://videos3.earthcam.com/fecnetwork/statueofliberty.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Puffins Maine" group-title="Nature",Puffins Maine
+https://explore-cdn.com/live-puffincam/index.m3u8
+
+#EXTINF:-1 tvg-name="Osprey Nest" group-title="Nature",Osprey Nest
+https://explore-cdn.com/live-ospreycam/index.m3u8
+
+#EXTINF:-1 tvg-name="Bald Eagle Nest" group-title="Nature",Bald Eagle Nest
+https://explore-cdn.com/live-eaglecam/index.m3u8
+
+#EXTINF:-1 tvg-name="Penguins Live" group-title="Nature",Penguins Live
+https://explore-cdn.com/live-penguins/index.m3u8
+
+#EXTINF:-1 tvg-name="Waikiki Beach Live" group-title="Nature",Waikiki Beach Live
+https://videos3.earthcam.com/fecnetwork/waikiki.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Bondi Beach Live" group-title="Nature",Bondi Beach Live
+https://stream.wildearth.tv/bondi/index.m3u8
+
+#EXTINF:-1 tvg-name="Caribbean Beach" group-title="Nature",Caribbean Beach
+https://videos3.earthcam.com/fecnetwork/caribbean.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Etna Volcano Live" group-title="Nature",Etna Volcano Live
+https://video-ssl.etna.it/live.m3u8
+
+#EXTINF:-1 tvg-name="Alps Panorama" group-title="Nature",Alps Panorama
+https://streaming.swisspanorama.ch/alps.m3u8
+
+#EXTINF:-1 tvg-name="EarthCam Timelapse" group-title="Nature",EarthCam Timelapse
+https://videos3.earthcam.com/fecnetwork/megaview.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Skyline Timelapse" group-title="Nature",Skyline Timelapse
+https://videos3.earthcam.com/fecnetwork/skyline.flv/chunklist.m3u8
+
+
+############################################################
+######################## 🌄 PACK 4K #########################
+############################################################
+
+#EXTINF:-1 tvg-name="Scenic Relaxation 4K" group-title="Nature 4K",Scenic Relaxation 4K
+https://ythls.armelin.one/channel/UCb2E-5qLSDjXn2k9sZ0U8-Q.m3u8
+
+#EXTINF:-1 tvg-name="Nature Timelapse 4K" group-title="Nature 4K",Nature Timelapse 4K
+https://ythls.armelin.one/channel/UC6tE5TjR8qgGy5pGdXWwH2g.m3u8
+
+#EXTINF:-1 tvg-name="Mountains 4K" group-title="Nature 4K",Mountains 4K
+https://ythls.armelin.one/channel/UCQ8pY0O8T8Hkz0z7dxyz4KA.m3u8
+
+#EXTINF:-1 tvg-name="Forest Walk 4K" group-title="Nature 4K",Forest Walk 4K
+https://ythls.armelin.one/channel/UCW0oZxvZ8u1P0nZ77N8DkVg.m3u8
+
+#EXTINF:-1 tvg-name="Ocean Waves 4K" group-title="Nature 4K",Ocean Waves 4K
+https://ythls.armelin.one/channel/UCV8u5YvZ8u1P0nZ77N8DkVg.m3u8
+
+#EXTINF:-1 tvg-name="Waterfalls 4K" group-title="Nature 4K",Waterfalls 4K
+https://ythls.armelin.one/channel/UC5q6tE5TjR8qgGy5pGdXWwH2g.m3u8
+
+#EXTINF:-1 tvg-name="Japan Landscapes 4K" group-title="Nature 4K",Japan Landscapes 4K
+https://ythls.armelin.one/channel/UCk0fLx0uZ8u1P0nZ77N8DkVg.m3u8
+
+#EXTINF:-1 tvg-name="Norway Fjords 4K" group-title="Nature 4K",Norway Fjords 4K
+https://ythls.armelin.one/channel/UCfjords4Klive.m3u8
+
+#EXTINF:-1 tvg-name="Switzerland Alps 4K" group-title="Nature 4K",Switzerland Alps 4K
+https://ythls.armelin.one/channel/UCswissalps4k.m3u8
+
+#EXTINF:-1 tvg-name="Drone World 4K" group-title="Nature 4K",Drone World 4K
+https://ythls.armelin.one/channel/UCdroneworld4k.m3u8
+
+
+############################################################
+######################## 🦅 ANIMAUX QUEBEC ##################
+############################################################
+
+#EXTINF:-1 tvg-name="Faucons Québec" group-title="Animaux QC",Faucons Québec
+https://video.cdn.environnement.gouv.qc.ca/faucons/live.m3u8
+
+#EXTINF:-1 tvg-name="Oies Blanches Québec" group-title="Animaux QC",Oies Blanches Québec
+https://explore-cdn.com/live-snowgeese/index.m3u8
+
+#EXTINF:-1 tvg-name="Hérons Québec" group-title="Animaux QC",Hérons Québec
+https://explore-cdn.com/live-heroncam/index.m3u8
+
+#EXTINF:-1 tvg-name="Orignaux Québec" group-title="Animaux QC",Orignaux Québec
+https://explore-cdn.com/live-moosecam/index.m3u8
+
+#EXTINF:-1 tvg-name="Oiseaux Rivière-du-Loup" group-title="Animaux QC",Oiseaux Rivière-du-Loup
+https://explore-cdn.com/live-birdcliff/index.m3u8
+
+#EXTINF:-1 tvg-name="Phoques Québec" group-title="Animaux QC",Phoques Québec
+https://explore-cdn.com/live-sealcam/index.m3u8
+
+
+############################################################
+######################## 🌦️ PACK METEO LIVE ################
+############################################################
+
+#EXTINF:-1 tvg-name="NOAA Radar East" group-title="Meteo",NOAA Radar East
+https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=nexrad-n0r&FORMAT=video/m3u8
+
+#EXTINF:-1 tvg-name="NOAA Radar Central" group-title="Meteo",NOAA Radar Central
+https://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=nexrad-n0r&FORMAT=video/m3u8&bbox=-110,30,-90,50
+
+#EXTINF:-1 tvg-name="GOES-East Satellite" group-title="Meteo",GOES-East Satellite
+https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/GOES16-ABI-FD-GEOCOLOR-1080p.m3u8
+
+#EXTINF:-1 tvg-name="GOES-West Satellite" group-title="Meteo",GOES-West Satellite
+https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/GEOCOLOR/GOES18-ABI-FD-GEOCOLOR-1080p.m3u8
+
+#EXTINF:-1 tvg-name="Radar Québec" group-title="Meteo",Radar Québec
+https://weather.gc.ca/data/radar/temp/CAQC.m3u8
+
+#EXTINF:-1 tvg-name="Radar Montréal" group-title="Meteo",Radar Montréal
+https://weather.gc.ca/data/radar/temp/CAMN.m3u8
+
+#EXTINF:-1 tvg-name="Radar Ottawa" group-title="Meteo",Radar Ottawa
+https://weather.gc.ca/data/radar/temp/CAOT.m3u8
+
+#EXTINF:-1 tvg-name="Radar Canada National" group-title="Meteo",Radar Canada National
+https://weather.gc.ca/data/radar/temp/CANN.m3u8
+
+#EXTINF:-1 tvg-name="Windy Global Radar" group-title="Meteo",Windy Radar Global
+https://stream.windy.com/radar-global.m3u8
+
+#EXTINF:-1 tvg-name="Windy Satellite Global" group-title="Meteo",Windy Satellite Global
+https://stream.windy.com/satellite-global.m3u8
+
+#EXTINF:-1 tvg-name="Radar Europe" group-title="Meteo",Radar Europe
+https://stream.windy.com/r
