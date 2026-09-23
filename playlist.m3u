@@ -272,3 +272,37 @@ https://stream.windy.com/satellite-global.m3u8
 
 #EXTINF:-1 tvg-name="Radar Europe" group-title="Meteo",Radar Europe
 https://stream.windy.com/r
+
+############################################################
+######################## 🌄 PACK 4K STABLE ##################
+############################################################
+
+#EXTINF:-1 tvg-name="Dolomites 4K" group-title="Nature 4K",Dolomites 4K
+https://hd-auth.skylinewebcams.com/live.m3u8?a=dolomites
+
+#EXTINF:-1 tvg-name="Amalfi Coast 4K" group-title="Nature 4K",Amalfi Coast 4K
+https://hd-auth.skylinewebcams.com/live.m3u8?a=amalfi
+
+#EXTINF:-1 tvg-name="Swiss Alps Panorama 4K" group-title="Nature 4K",Swiss Alps Panorama 4K
+https://streaming.swisspanorama.ch/alps.m3u8
+
+#EXTINF:-1 tvg-name="Etna Volcano 4K" group-title="Nature 4K",Etna Volcano 4K
+https://video-ssl.etna.it/live.m3u8
+
+#EXTINF:-1 tvg-name="Waikiki Beach 4K" group-title="Nature 4K",Waikiki Beach 4K
+https://videos3.earthcam.com/fecnetwork/waikiki.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Miami Beach 4K" group-title="Nature 4K",Miami Beach 4K
+https://videos3.earthcam.com/fecnetwork/miamibeach.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Caribbean Beach 4K" group-title="Nature 4K",Caribbean Beach 4K
+https://videos3.earthcam.com/fecnetwork/caribbean.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="San Diego Harbor 4K" group-title="Nature 4K",San Diego Harbor 4K
+https://videos3.earthcam.com/fecnetwork/sandiego.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Skyline Timelapse 4K" group-title="Nature 4K",Skyline Timelapse 4K
+https://videos3.earthcam.com/fecnetwork/skyline.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="EarthCam MegaView 4K" group-title="Nature 4K",EarthCam MegaView 4K
+https://videos3.earthcam.com/fecnetwork/megaview.flv/chunklist.m3u8
